@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1VRX6T9hMqT6qHz5TE6JU861MJ63UWHyk
 """
 
-!pip install streamlit shap xgboost
-
 import streamlit as st
 import pandas as pd
 import numpy as np
